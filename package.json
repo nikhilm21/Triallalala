@@ -1,0 +1,16 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.29"
+  }
+}
